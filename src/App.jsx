@@ -4,7 +4,7 @@ import UseState from './components/UseState'
 const App = () => {
   return (
     <>
-      <UseState />
+      {/* <UseState /> */}
     </>
   )
 }
